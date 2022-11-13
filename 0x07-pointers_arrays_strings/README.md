@@ -40,7 +40,7 @@ Prototype: void print_chessboard(char (*a)[8]);
 7. The line of life is a ragged diagonal between duty and desire
 Write a function that prints the sum of the two diagonals of a square matrix of integers.
 
-Prototype: void print_diagsums(int *a, int size);
+Prototype: void setstring(char **s, char *to);
 You are allowed to use the standard library
 8. Double pointer, double fun
 Write a function that sets the value of a pointer to a char.
